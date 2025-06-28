@@ -1,0 +1,1 @@
+In this project, I designed a simple static web page (simple.html) that presents information about forts using structured HTML and custom styling through CSS (style1.css), while incorporating multiple relevant images to create a visually appealing and informative layout.
